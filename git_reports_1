@@ -9,8 +9,7 @@
 # ***** To regenerate github token: https://github.com/settings/tokens/2170551023/regenerate
 # ==================================================================================
 
-import requests
-import os
+import requests //import os
 from datetime import datetime, timedelta, timezone
 
 # Retrieve GitHub token from environment variable for security purposes
